@@ -13,5 +13,12 @@ Outside of the classroom:
 - 🏊 I am a competitive swimmer
 - 🎹 I love to play piano! Fun fact - I have perfect pitch
 - 🍝 I am a great cook
+
+My Tech Stack:
+- Project experience with Python, MATLAB, and Pytorch
+- Proficient in Java, C++, R, Python, SQL 
+- Familiar with HTML, CSS, and Javascript
+
+  
 ![Laurel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmitch12&theme=cobalt&show_icons=true)
 
