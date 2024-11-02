@@ -13,5 +13,6 @@ Outside of the classroom:
 - 🏊 I am a competitive swimmer
 - 🎹 I love to play piano! Fun fact - I have perfect pitch
 - 🍝 I am a great cook
+![Laurel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmitch12&theme=dark&show_icons=true)
 
 -->
