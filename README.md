@@ -2,7 +2,7 @@
 
 <!--
 **lmitch12/lmitch12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 About me!
 
 - 🌱 I’m a junior at Wheaton College MA, double majoring in math and computer science
@@ -13,6 +13,5 @@ Outside of the classroom:
 - 🏊 I am a competitive swimmer
 - 🎹 I love to play piano! Fun fact - I have perfect pitch
 - 🍝 I am a great cook
-![Laurel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmitch12&theme=dark&show_icons=true)
+![Laurel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmitch12&theme=cobalt&show_icons=true)
 
--->
